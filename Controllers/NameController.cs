@@ -18,8 +18,8 @@ namespace github_demo.Controllers
         {
             var me = new Person()
             {
-                Name = "Stephen",
-                Age = 26,
+                Name = "Tyler",
+                Age = 29,
             };
 
             return me;
