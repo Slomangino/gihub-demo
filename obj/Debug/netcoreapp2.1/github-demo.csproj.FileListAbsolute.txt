@@ -1,0 +1,14 @@
+F:\Code\github-demo\bin\Debug\netcoreapp2.1\github-demo.deps.json
+F:\Code\github-demo\bin\Debug\netcoreapp2.1\github-demo.runtimeconfig.json
+F:\Code\github-demo\bin\Debug\netcoreapp2.1\github-demo.runtimeconfig.dev.json
+F:\Code\github-demo\bin\Debug\netcoreapp2.1\github-demo.dll
+F:\Code\github-demo\bin\Debug\netcoreapp2.1\github-demo.pdb
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.csprojAssemblyReference.cache
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.csproj.CoreCompileInputs.cache
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.RazorAssemblyInfo.cache
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.RazorAssemblyInfo.cs
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.AssemblyInfoInputs.cache
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.AssemblyInfo.cs
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.RazorTargetAssemblyInfo.cache
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.dll
+F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.pdb
