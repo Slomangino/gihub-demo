@@ -1,0 +1,75 @@
+Login to github and create a new repository called 'githubdemo'
+
+open terminal/powershell
+run command 'dotnet --info'
+	if they do not have dotnet core sdk installed: https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial
+they should see a small informational output if it runs successfully
+
+navigate in command line to c:/
+	mac: cd ~/      -current user folder
+	
+run command mkdir code
+	This will create a folder called 'code'
+
+run command mkdir githubdemo
+	This will create a folder called 'githubdemo'
+	
+run command 'dotnet new webapi'
+	this will create a new .net core webapi project in the current directory
+	
+open visual studio
+find the play button dropdown menu
+	change to run the project directly instead of a browser, this will open a console app as well where
+	you can see console.writeline()s.
+if all goes well, should be able to run the new project
+New browser window and terminal should open with the values api call as the URL
+
+Explain the aspects of the controller, http message types, Route attribute etc
+
+Create a new controller named PersonController.cs
+	copy attributes from ValuesController, we will need those. 
+	
+Make basic get that returns a name string.
+
+next make a local domain class called "Person" with string name and int age properties
+
+convert the get method to return a Person and create a local person object and return 
+it with your name and age
+
+Go to source tree and add a new repository selecting the githubdemo folder that the project is in.
+
+Commit the changes and push directly to master as the initial commit.
+	go to github and see that the code is now in the github repository
+
+Add each of their users as a collaborator in Stephen's github to mimic what they might do for their project.
+Clone Stephens repository into a new folder by following these steps
+	browse to: https://github.com/Slomangino/gihub-demo\
+	Clone with https
+	copy into sourcetree source path
+	create new folder in c:/code to put this repo
+	Clone
+	
+Open project solution in visual studio 
+
+In Sourcetree, create a new branch and name it 'master-work/change-name-"MY-NAME" where 
+"MY-NAME" is your name.
+
+Notice in visual studio that the branch name should have changed
+
+navigate to NameController and change the name and age to your name and age.
+Commit these changes with a good commit message and push those changes to github
+
+Navigate back to Stephen's Github repository and create a pull request for your branch against the master branch
+
+Merge one of the PRs to master
+	see that all the other PRs now have merge conflicts
+	
+Create new branch off of master and resolve conflicts in visual studio
+commit and push those changes and see that the second commit's changes are now reflected in the repository.
+
+
+
+
+
+
+
