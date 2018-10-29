@@ -5170,7 +5170,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
-      "sha512": "f8PKGcxiezL1RVqmnmrazj24Mj4KCTSXqwdotl7Lc+82h8iLV7ItxEIShTJakG7M9iw0ZuCocM0J/IhYesdQrg==",
+      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sloma\\.nuget\\packages\\": {},
+    "C:\\Users\\spaw03\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\code\\github-demo\\github-demo.csproj",
+      "projectUniqueName": "C:\\code\\gihub-demo\\github-demo.csproj",
       "projectName": "github-demo",
-      "projectPath": "F:\\code\\github-demo\\github-demo.csproj",
-      "packagesPath": "C:\\Users\\sloma\\.nuget\\packages\\",
-      "outputPath": "F:\\code\\github-demo\\obj\\",
+      "projectPath": "C:\\code\\gihub-demo\\github-demo.csproj",
+      "packagesPath": "C:\\Users\\spaw03\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\gihub-demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sloma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\spaw03\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
