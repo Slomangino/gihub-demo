@@ -12,3 +12,17 @@ F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.AssemblyInfo.cs
 F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.RazorTargetAssemblyInfo.cache
 F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.dll
 F:\Code\github-demo\obj\Debug\netcoreapp2.1\github-demo.pdb
+C:\code\gihub-demo\bin\Debug\netcoreapp2.1\github-demo.deps.json
+C:\code\gihub-demo\bin\Debug\netcoreapp2.1\github-demo.runtimeconfig.json
+C:\code\gihub-demo\bin\Debug\netcoreapp2.1\github-demo.runtimeconfig.dev.json
+C:\code\gihub-demo\bin\Debug\netcoreapp2.1\github-demo.dll
+C:\code\gihub-demo\bin\Debug\netcoreapp2.1\github-demo.pdb
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.csprojAssemblyReference.cache
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.csproj.CoreCompileInputs.cache
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.RazorAssemblyInfo.cache
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.RazorAssemblyInfo.cs
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.AssemblyInfoInputs.cache
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.AssemblyInfo.cs
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.RazorTargetAssemblyInfo.cache
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.dll
+C:\code\gihub-demo\obj\Debug\netcoreapp2.1\github-demo.pdb
