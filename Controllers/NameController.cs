@@ -16,8 +16,8 @@ namespace github_demo.Controllers
             // create local object
             var me = new Person()
             {
-                Name = "Stephen",
-                Age = 26,
+                Name = "Tyler",
+                Age = 28,
             };
 
             return me;
