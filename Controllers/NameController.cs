@@ -11,7 +11,13 @@ namespace github_demo.Controllers
     public class NameController : Controller
     {
         [HttpGet]
-        public Person GetWithId(int id)
+        public List<Person> Get()
+        {
+            return People;
+        }
+
+        [HttpGet]
+        public Person Get(int id)
         {
             var person = People.FirstOrDefault(a => a.Id == id);
 
