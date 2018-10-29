@@ -11,22 +11,50 @@ namespace github_demo.Controllers
     public class NameController : Controller
     {
         [HttpGet]
-        public Person Get()
+        public Person GetWithId(int id)
         {
-            // create local object
-            var me = new Person()
-            {
-                Name = "Stephen",
-                Age = 26,
-            };
+            var person = People.FirstOrDefault(a => a.Id == id);
 
-            return me;
+            return person;
         }
+
+        [HttpPost]
+        public int CreatePerson([FromBody] PersonInputDTO input)
+        {
+            var random = new Random();
+
+            People.Add(new Person
+            {
+                Id = random.Next(2, 200),
+                Name = input.Name,
+                Age = input.Age ?? 25
+            });
+
+            return People.Last().Id;
+        }
+
+        public List<Person> People = new List<Person>(new List<Person>
+        { 
+            new Person()
+            {
+                    Id = 1,
+                    Name = "Stephen",
+                    Age = 26
+            }
+        });
     }
 
     public class Person
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
+    }
+
+    public class PersonInputDTO
+    {
+        public string Name { get; set; } 
+
+        public int? Age { get; set; }
     }
 }
